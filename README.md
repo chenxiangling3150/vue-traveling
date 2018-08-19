@@ -26,6 +26,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
  >git版本管理工具入门使用方法
 ``` bash
     使用git将项目上传到github（最简单方法）学习地址：https://www.cnblogs.com/cxk1995/p/5800196.html
+    使用码云                  https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/00150154460073692d151e784de4d718c67ce836f72c7c4000
 ```
 >知识点：
 ``` bash
