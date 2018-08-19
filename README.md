@@ -27,7 +27,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ``` bash
     使用git将项目上传到github（最简单方法）学习地址：https://www.cnblogs.com/cxk1995/p/5800196.html
 ```
-## 知识点：
+>知识点：
 ``` bash
     1.webpack.base.conf.js  修改配置文件
      alias: {
