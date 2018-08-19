@@ -19,10 +19,14 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-使用git将项目上传到github（最简单方法）学习地址：https://www.cnblogs.com/cxk1995/p/5800196.html
+
+
 
 # 项目学习过程总结
-
+  ##git版本管理工具入门使用方法
+``` bash
+    使用git将项目上传到github（最简单方法）学习地址：https://www.cnblogs.com/cxk1995/p/5800196.html
+```
 ## 知识点：
 ``` bash
     1.webpack.base.conf.js  修改配置文件
